@@ -16,7 +16,7 @@ public class helloWorld {
 	}
 
 	public static void method2(){
-		//anther way we can do this is by using a variable that stores a String
+		//another way we can do this is by using a variable that stores a String
 		String s = "Hello World!";
 		System.out.println(s);
 	}
